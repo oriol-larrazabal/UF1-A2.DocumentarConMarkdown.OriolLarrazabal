@@ -24,9 +24,9 @@ presentación.
 | ------------    | -----  |
 | Google Docs     | ✔     |
 | Google Slides   | ✔     |
-| Google Sheets| |  |
-| Google Calendar | | 📭 |
-| Google Meet | | 🖥 |
+| Google Sheets| | 📅 |
+| Google Calendar | | 📅 |
+| Google Meet | | 💻 |
 | ... | | ... |
 
 6. ¿Qué es HTML ?
