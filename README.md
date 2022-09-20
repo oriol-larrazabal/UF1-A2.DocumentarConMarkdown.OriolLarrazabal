@@ -20,7 +20,10 @@ presentación.
 
 5.[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
-| Aplicaciones | 
+| Aplicaciones    | Visto | 
+| ------------    | -----  |
+| Google Docs     | ✔     |
+| Google Slides   | ✔     |  
 
 6. 
 7. 
