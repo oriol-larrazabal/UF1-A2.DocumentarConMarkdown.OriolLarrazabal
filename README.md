@@ -18,7 +18,7 @@ Es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación.
 
-5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
+5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google"):
 
 | Aplicaciones    | Visto | 
 | ------------    | -----  |
@@ -34,18 +34,24 @@ presentación.
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang= "en">
 <head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
 <body>
+  
 </body>
 </html>
 
-8. 
-9. 
-10. 
-11.
+7. ¿Qué es CSS?
+
+CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+elementos HTML deberían ser mostrados.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+
+
