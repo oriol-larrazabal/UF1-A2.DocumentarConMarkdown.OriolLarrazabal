@@ -39,6 +39,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <title>Document</title>
 </head>
 <body>
@@ -51,7 +52,9 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.
 
+
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![recorte 1 uf1 a2](https://user-images.githubusercontent.com/113420705/191226826-9c549093-5f2e-42e8-a9a8-a8e029a4da5f.png)
 
 
