@@ -33,7 +33,7 @@ presentación.
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
-<HTML>
+````<HTML>
   
 <!DOCTYPE html>
 <html lang= "en">
@@ -49,7 +49,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 </body>
 </html>
 
-</HTML>
+</HTML>````
   
 7. ¿Qué es ``CSS``?
 
